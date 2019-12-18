@@ -1,0 +1,38 @@
+body {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5em;
+  font-family: sans-serif;
+}
+
+h1{
+  font-size: 32px;
+}
+
+img {
+  width: 200px;
+}
+
+img + p {
+  margin-top: 0;
+  font-style: italic;
+}
+
+figure {
+  margin: 0;
+  padding: 0 0 10px 20px;
+  float: right;
+}
+
+figcaption{
+  font-style: italic;
+}
+
+/* table {
+  border: 1px;
+  border-color: black;
+} */
